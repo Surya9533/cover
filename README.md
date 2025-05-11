@@ -116,7 +116,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![output](<Screenshot 2025-04-28 192931-1.png>)
+![image](https://github.com/user-attachments/assets/7ce36c4f-087c-4cd7-b810-7d293b960bd1)
+
 
 
 ## RESULT:
